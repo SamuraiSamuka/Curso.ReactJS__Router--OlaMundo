@@ -9,7 +9,8 @@
 | :fire: Cursos               | [React: desenvolvendo em React Router com JavaScript](https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript)
 | :mortar_board: Certificados | [Ainda não concluído]()
 
-![](https://3.bp.blogspot.com/-sbRzWXGOtUg/VKyLqYyurJI/AAAAAAAAAAM/wGbmdFErwz4/s1600/site_em_construcao.jpg#vitrinedev)
+![](https://raw.githubusercontent.com/SamuraiSamuka/ReactJS-Router--OlaMundo/main/src/assets/OlaMundo.png#vitrinedev)
+
 
 # Detalhes do projeto
 [design do figma](https://www.figma.com/file/nDTrIQxTu6aldQG0o0iAbj/Ol%C3%A1%2C-Mundo!---Projeto-React%3A-router?node-id=38%3A716&t=y1FfACdjFh3qjCfI-0)
