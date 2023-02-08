@@ -19,7 +19,8 @@
 
 * Instalei o react-router-dom e utilizei os componentes BrowserRouter e Routes para criar o roteador e Route para criar rotas;
 * Mostar uma página de erro 404, para páginas inexistentes;
-* Diferenças entre sites tradicionadis vs SPAs - SPAs são compostas por um única página HTML e seu conteúdo é atualizado dinamicamente por meio do JS;
+* Diferenças entre sites tradicionadis e SPAs, esta últimas são compostas por um única página HTML e seu conteúdo é atualizado dinamicamente por meio do JS;
 * Uso do componente Link, que mantém o comportamento de uma SPA (não precisar recarregar a página para exibir um novo conteúdo);
 * Uso do hook useLocation;
 * Componente NavLink, que dá a informação se o link está ativo ou não de forma direta;
+* O que são rotas aninhadas e como utilizá-las e o uso do Outlet e do index do Route;
