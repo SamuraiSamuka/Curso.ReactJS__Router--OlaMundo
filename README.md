@@ -23,4 +23,4 @@
 * Uso do componente Link, que mantém o comportamento de uma SPA (não precisar recarregar a página para exibir um novo conteúdo);
 * Uso do hook useLocation;
 * Componente NavLink, que dá a informação se o link está ativo ou não de forma direta;
-* O que são rotas aninhadas e como utilizá-las e o uso do Outlet e do index do Route;
+* O que são rotas aninhadas e como utilizá-las e o uso do componente Outlet e do index do Route;
