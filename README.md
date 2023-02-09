@@ -4,9 +4,9 @@
 | ------------------------    | --- |
 | :sparkles: Nome             | **Olá, Mundo!**
 | :label: Tecnologias         | ReactJs, HTML, CSS e Javascript
-| :link: Bibliotecas          | React Router
+| :link: Bibliotecas          | React Router, ReackMarkdonw
 | :rocket: Deploy             | [Olá Mundo](https://ola-mundo-router.vercel.app/)
-| :fire: Cursos               | [React: desenvolvendo em React Router com JavaScript](https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript)
+| :fire: Curso                | [React: desenvolvendo em React Router com JavaScript](https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript)
 | :mortar_board: Certificados | [Ainda não concluído]()
 
 ![](https://raw.githubusercontent.com/SamuraiSamuka/ReactJS-Router--OlaMundo/main/src/assets/OlaMundo.png#vitrinedev)

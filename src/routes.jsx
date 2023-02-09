@@ -4,6 +4,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Menu from "./Components/Menu";
 import Inicio from "./Pages/Inicio"
 import SobreMim from "./Pages/SobreMim"
+import Post from "Pages/Post";
+import NaoEncontrado from "Pages/NãoEncontrado";
 
 function AppRoutes() {
   return (
@@ -12,9 +14,10 @@ function AppRoutes() {
       <Routes>
         <Route path="/" element={<PaginaPadrao />}>
           <Route index element={<Inicio />}/>
-          <Route path="SobreMim" element={<SobreMim />}/>
+          <Route path="sobreMim" element={<SobreMim />}/>
+          <Route path="posts/:id" element={<Post />} />
         </Route>
-        <Route path="*" element={<h1>Página não encontrada</h1>}/>
+        <Route path="*" element={<NaoEncontrado />}/>
       </Routes>
       <Rodape />
     </BrowserRouter>
