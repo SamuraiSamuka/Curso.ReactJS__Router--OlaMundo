@@ -24,3 +24,4 @@
 * Uso do hook useLocation;
 * Componente NavLink, que dá a informação se o link está ativo ou não de forma direta;
 * O que são rotas aninhadas e como utilizá-las e o uso do componente Outlet e do index do Route;
+* O que são e como utilizar rotas dinâmicas e como utilizar o hook useParams
